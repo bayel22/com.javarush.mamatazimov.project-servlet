@@ -5,7 +5,7 @@
 ## Технологический стек
 - **Backend**: Java Servlets (Jakarta EE)
 - **Frontend**: JSP (JavaServer Pages), JSTL
-- **Сервер**: Apache Tomcat 9+
+- **Сервер**: Apache Tomcat 10+ (из-за Jakarta EE 9+)
 - **Дополнительно**: jQuery для AJAX-запросов
 
 ## Особенности реализации
@@ -14,7 +14,3 @@
 - Определение победителя/ничьи
 - Возможность рестарта игры
 - Адаптивный дизайн
-
-## Требования
-- **Сервер**: Apache Tomcat 10+ (из-за Jakarta EE 9+)
-- JDK 17+
